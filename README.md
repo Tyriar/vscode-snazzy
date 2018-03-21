@@ -12,11 +12,6 @@
 - If you want to use snazzy's standard background instead of your theme background, uncomment the `"terminal.background"` line.
 
 
-## Cursor style
-
-Normally the snazzy cursor is styled with `##97979b`. Currently cursor styling is not supported in VS Code, this is blocked on https://github.com/Microsoft/vscode/issues/30294
-
-
 ## Related
 
 - [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) - Hyper version
