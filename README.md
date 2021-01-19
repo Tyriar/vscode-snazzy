@@ -18,3 +18,4 @@
 - [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - iTerm2 version
 - [konsole-snazzy](https://github.com/miedzinski/konsole-snazzy) - Konsole version
 - [terminal-snazzy](https://github.com/sindresorhus/terminal-snazzy) - Terminal version
+- [st-snazzy](https://github.com/Dko1905/st-snazzy) - ST version
